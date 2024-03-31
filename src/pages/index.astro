@@ -30,8 +30,8 @@ const projects = (await getCollection("work"))
     <div class="wrapper stack gap-8 lg:gap-20">
       <header class="hero">
         <Hero
-          title="Bienvenue, je m'appelle Antoine Gobbe"
-          tagline="Je suis étudiant et ma passion pour l'informatique et la technologie s'étend particulièrement à la blockchain !"
+          title="Bienvenue sur mon Portefolio"
+          tagline="Je suis un Étudiant passionné par l'Informatique et la Technologie, notamment la Blockchain !"
           align="start"
         >
           <div class="roles">
@@ -55,10 +55,10 @@ const projects = (await getCollection("work"))
     <main class="wrapper stack gap-20 lg:gap-48">
       <section class="section with-background with-cta">
         <header class="section-header stack gap-2 lg:gap-4">
-          <h3>Selected Work</h3>
+          <h3>Mes Derniers Projet</h3>
           <p>
-            Take a look below at some of my featured work for clients from the
-            past few years.
+            Vous pouvez consulter mes derniers projets réalisés, que ce soit
+            pour l'école ou pour moi-même.
           </p>
         </header>
 
@@ -76,37 +76,9 @@ const projects = (await getCollection("work"))
 
         <div class="cta">
           <CallToAction href="/work/">
-            View All
+            Tous les Projets
             <Icon icon="arrow-right" size="1.2em" />
           </CallToAction>
-        </div>
-      </section>
-
-      <section class="section with-background bg-variant">
-        <header class="section-header stack gap-2 lg:gap-4">
-          <h3>Mentions</h3>
-          <p>
-            I have been fortunate enough to receive praise for my work in
-            several publications. Take a look below to learn more.
-          </p>
-        </header>
-
-        <div class="gallery">
-          <Grid variant="small">
-            {
-              [
-                "Medium",
-                "BuzzFeed",
-                "The Next Web",
-                "awwwards.",
-                "TechCrunch",
-              ].map((brand) => (
-                <li class="mention-card">
-                  <p>{brand}</p>
-                </li>
-              ))
-            }
-          </Grid>
         </div>
       </section>
     </main>
