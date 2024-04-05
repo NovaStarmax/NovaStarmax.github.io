@@ -28,7 +28,3 @@ C'était un mini-projet réalisé en solo en moins d'une heure, servant de tremp
   <source src="/assets/super-eat-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-#### Compétences
-- HTML
-- CSS
