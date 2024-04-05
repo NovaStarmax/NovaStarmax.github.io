@@ -1,7 +1,7 @@
 ---
 title: Super Eat
 publishDate: 2023-10-15 16:00:00
-img: /assets/super-eat.png
+img: /assets/supereat.webp
 img_alt: Image du projet.
 description: |
   J'ai dû modifier la template d'un site qui concernait un secteur d'activité précis en un site qui concernait la nourriture.
@@ -28,3 +28,7 @@ C'était un mini-projet réalisé en solo en moins d'une heure, servant de tremp
   <source src="/assets/super-eat-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+#### Compétences
+- HTML
+- CSS
