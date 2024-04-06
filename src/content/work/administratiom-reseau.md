@@ -20,5 +20,5 @@ Le projet aborde également l'organisation des espaces de travail pour les utili
 
 En conclusion, ce projet d'administration réseau s'attache à créer un environnement sûr et efficace pour la gestion des utilisateurs et la sécurité des données, tout en développant une plateforme communautaire enrichissante pour les amateurs de sport.
 
->  Retrouver le<a href="https://www.canva.com/design/DAF6D5RuaAo/T94Zccqp4TwnIYLg3sgI_w/edit?utm_content=DAF6D5RuaAo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva</a> et le 
+>  Retrouver le <a href="https://www.canva.com/design/DAF6D5RuaAo/T94Zccqp4TwnIYLg3sgI_w/edit?utm_content=DAF6D5RuaAo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva</a> et le 
 > <a href="https://docs.google.com/document/d/1HpIZ-BfftiIot2zk3VG--xazTAEjnTLRbLOQvgZmAl4/edit?usp=sharing">Rapport d’Audit</a>

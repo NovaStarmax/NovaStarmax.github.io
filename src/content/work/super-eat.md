@@ -1,5 +1,5 @@
 ---
-title: Super Eat
+title: Site Vitrine
 publishDate: 2023-10-15 16:00:00
 img: /assets/supereat.webp
 img_alt: Image du projet.

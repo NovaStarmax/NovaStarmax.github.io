@@ -1,5 +1,5 @@
 ---
-title: Kon’s’Wear
+title: Site e-commerce
 publishDate: 2023-11-01 16:00:00
 img: /assets/konswear.webp
 img_alt: image konswear
@@ -19,5 +19,5 @@ Ce projet a été réalisé en partenariat avec <a href="https://www.jacquemus.c
 C'était notre première tâche de l'année pour l'école, incluant également des aspects de marketing. 
 Nous avons obtenu une excellente note pour notre travail, mais suite à l'arrêt de l'abonnement, l'accès à la boutique a été interrompu.
 
-> <a href="https://www.canva.com/design/DAFyWKcqVhU/3Erohfqxn6TtzYX9hEq77w/edit?utm_content=DAFyWKcqVhU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Présentation Canva</a>
+> <a href="https://www.canva.com/design/DAF23cNUUS0/cZPiFuWd2mA9JEiuL1n9cA/edit?utm_content=DAF23cNUUS0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Présentation Canva</a>
 
