@@ -7,7 +7,8 @@ description: |
   Nous devions présenter une maquette et imaginer les fonctionnalités de l’application
 tags:
   - Figma
-  - Back Front
+  - Back-end
+  - Front-end
 ---
 
 ## <div style="text-align: center;">App Web Mobile : Racook</div>
