@@ -78,48 +78,56 @@ import Hero from "../components/Hero.astro";
         <h2 class="section-title">Compétences</h2>
         <div class="content">
           <img
+            class="image-hover"
             width="122"
             height="122"
             src="/assets/img-info/html.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="122"
             height="122"
             src="/assets/img-info/css.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="122"
             height="122"
             src="/assets/img-info/js.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="122"
             height="122"
             src="/assets/img-info/php.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="122"
             height="122"
             src="/assets/img-info/python.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="122"
             height="122"
             src="/assets/img-info/git.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="122"
             height="122"
             src="/assets/img-info/docker.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="122"
             height="122"
             src="/assets/img-info/linux.png"
@@ -131,24 +139,28 @@ import Hero from "../components/Hero.astro";
         <h2 class="section-title">Soft Skills</h2>
         <div class="content">
           <img
+            class="image-hover"
             width="250"
             height="250"
             src="/assets/img-info/curiosite.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="250"
             height="250"
             src="/assets/img-info/pense.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="250"
             height="250"
             src="/assets/img-info/travail.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="250"
             height="250"
             src="/assets/img-info/ponct.png"
@@ -160,24 +172,28 @@ import Hero from "../components/Hero.astro";
         <h2 class="section-title">Passions</h2>
         <div class="content">
           <img
+            class="image-hover"
             width="250"
             height="250"
             src="/assets/img-info/art.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="250"
             height="250"
             src="/assets/img-info/voyage.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="250"
             height="250"
             src="/assets/img-info/discution.png"
             alt="Photo"
           />
           <img
+            class="image-hover"
             width="250"
             height="250"
             src="/assets/img-info/jeu.png"
@@ -235,6 +251,14 @@ import Hero from "../components/Hero.astro";
     flex-direction: column;
     gap: 0.5rem;
     color: var(--gray-200);
+  }
+
+  .image-hover {
+    transition: transform 0.3s ease;
+  }
+
+  .image-hover:hover {
+    transform: scale(1.1);
   }
 
   .section-title {
