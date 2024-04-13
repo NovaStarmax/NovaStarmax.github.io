@@ -15,15 +15,19 @@ import Hero from "../components/Hero.astro";
         title="Qui suis-je ?"
         tagline="Vous découvrirez ici plus d'informations concernant mon parcours, mes compétences ou encore ma personnalité."
       >
-        <iframe
-          width="950"
-          height="500"
-          src="https://www.youtube.com/embed/CW5zVmoxt6s?si=vYEdCLOYfAp8R1ft"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen></iframe>
+        <div
+          style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"
+        >
+          <iframe
+            src="https://www.youtube.com/embed/CW5zVmoxt6s?si=vYEdCLOYfAp8R1ft"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+            style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;"
+          ></iframe>
+        </div>
       </Hero>
 
       <section>
