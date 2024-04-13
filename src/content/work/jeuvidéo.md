@@ -9,6 +9,8 @@ tags:
   - Python
 ---
 
+## <div style="text-align: center;">Jeu Vidéo : L’éternel survivant</div>
+
 ##### Voici notre cahier des charges :
 
 - Nous devions concevoir un Dungeon Crawler dans le terminal. <br>
@@ -24,7 +26,17 @@ Le but était de présenter un jeu fonctionnel, voici notre projet sous le nom d
 
 #### Voici un aperçu de notre jeu :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3yyctP37Je0?si=JLeAgOe61GS_9yhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/3yyctP37Je0?si=JLeAgOe61GS_9yhu"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 > Retrouver le <a href="https://www.canva.com/design/DAGB_0DyJo8/ycqVQ30Kp434rMR4gEPU7g/edit?utm_content=DAGB_0DyJo8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva</a>, le <a href="https://www.canva.com/design/DAGCGUMUNYM/p3uVfMqzKPp3W8zbdshABQ/edit?utm_content=DAGCGUMUNYM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Game Book</a> et le 
