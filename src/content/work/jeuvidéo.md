@@ -22,5 +22,10 @@ Nous avions 6 jours pour faire ce projet.
 Nous étions constitué d’un groupe de 3 personnes.
 Le but était de présenter un jeu fonctionnel, voici notre projet sous le nom de **_L’éternel survivant_**
 
-> Retrouver le <a href="https://www.canva.com/design/DAF6D5RuaAo/T94Zccqp4TwnIYLg3sgI_w/edit?utm_content=DAF6D5RuaAo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva</a> et le
-> <a href="https://docs.google.com/document/d/1HpIZ-BfftiIot2zk3VG--xazTAEjnTLRbLOQvgZmAl4/edit?usp=sharing">Rapport d’Audit</a>
+#### Voici un aperçu de notre jeu :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3yyctP37Je0?si=JLeAgOe61GS_9yhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+> Retrouver le <a href="https://www.canva.com/design/DAGB_0DyJo8/ycqVQ30Kp434rMR4gEPU7g/edit?utm_content=DAGB_0DyJo8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva</a>, le <a href="https://www.canva.com/design/DAGCGUMUNYM/p3uVfMqzKPp3W8zbdshABQ/edit?utm_content=DAGCGUMUNYM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Game Book</a> et le 
+> <a href="https://github.com/NovaStarmax/dungeonCrawler">GitHub</a>
